@@ -1,3 +1,7 @@
+"""
+训练好的模型应用在自己的图片集上
+"""
+
 import os
 import torch
 import torchvision
